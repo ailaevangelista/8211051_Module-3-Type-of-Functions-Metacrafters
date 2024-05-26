@@ -12,3 +12,7 @@ This contract is suitable for deploying an ERC20 token with advanced control ove
 3. Minting Capability: The contract owner can create new tokens and assign them to any specified address.
 4. Burning Capability: Any token holder can burn their own tokens, reducing the total supply.
 5. Custom Transfer Functions: Overrides the default transfer and transferFrom functions to ensure they work seamlessly with the contract's internal logic.
+
+#### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
